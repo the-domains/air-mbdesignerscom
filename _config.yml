@@ -1,0 +1,42 @@
+name: AIR-MØB.DESIGNERS
+analytics: {}
+github: true
+description: "FASHION,LIFESTYLE\uD83E\uDD8B"
+author: {}
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.3599692680872977
+color:
+  lightness: 0.2552941928151995
+  brandColors:
+    - '#181921'
+    - '#FFFFF8'
+    - '#B5C1D7'
+    - '#CC4D5E'
+    - '#808F94'
+  saturation: 0.9496550606563687
+  brandStrength: 0.9433344954159111
+  rhythmicContrast: 0.1875330726616085
+content_rating:
+  adult: false
+typography_spectrum: 0.1308349734172225
+opengraph: {}
+title: "AIR-MØB\uD83E\uDD8B"
