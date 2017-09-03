@@ -1,7 +1,6 @@
-name: AIR-MØB.DESIGNERS
+name: AIRMOB
 analytics: {}
 github: true
-description: "FASHION,LIFESTYLE\uD83E\uDD8B"
 author:
   name: Rui
   email: ruijames@icloud.com
@@ -41,4 +40,3 @@ content_rating:
   adult: false
 typography_spectrum: 0.1308349734172225
 opengraph: {}
-title: "AIR-MØB\uD83E\uDD8B"
