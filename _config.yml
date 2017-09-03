@@ -2,7 +2,9 @@ name: AIR-MØB.DESIGNERS
 analytics: {}
 github: true
 description: "FASHION,LIFESTYLE\uD83E\uDD8B"
-author: {}
+author:
+  name: Rui
+  email: ruijames@icloud.com
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
